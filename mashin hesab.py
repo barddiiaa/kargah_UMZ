@@ -1,0 +1,6 @@
+num = int( input("adad aval ra vared konid: ") )
+num2 = int( input("adad dovom ra vared konid: ") )
+print("jame: ", num + num2 )
+print("tafrigh: ", num - num2 )
+print("zarb: ", num * num2 )
+print("taghsim: ", num / num2 )
