@@ -1,3 +1,4 @@
+hesab = 0
 while 1:
     darkhast = input("darkhast:")
     if darkhast == "khroj":
