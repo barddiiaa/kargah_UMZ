@@ -8,3 +8,8 @@ def decrypt_clue(text):
     print("kalamat kelidy dar Phyton:")
     for keyword in keywords:
         print(keyword)
+
+file = open("1.txt", "r")
+text = file.read()
+
+decrypt_clue(text)
